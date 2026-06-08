@@ -69,6 +69,8 @@ Use with care & for inspiration
   Know](https://www.jobscan.co/blog/lever-ats/)
 * [Getting started with
   Lever](https://help.lever.co/s/article/Getting-started-with-Lever-as-a-Recruiter)
+* [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Hand-verified dataset of which ATS the 743 largest employers use. F500 + Global 2000 + Series-C+ private $1B+. MIT.
+
 
 ## Other Awesome Resources
 
