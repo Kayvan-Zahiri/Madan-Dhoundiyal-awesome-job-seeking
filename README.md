@@ -2,15 +2,15 @@
 
 A curated list of awesome job seeking resources
 
-## Where are you at?
+## 🗺️ Where are you at?
 
-* [Searching](#search)
-* [Preparing](#prepare)
-* [Applying](#apply)
-* [Interviewing](#interview)
-* [Offer](#offer)
+* [Searching](#-search)
+* [Preparing](#-prepare)
+* [Applying](#-apply)
+* [Interviewing](#-interview)
+* [Offer](#-offer)
 
-## Search
+## 🔍 Search
 
 ### Job Boards
 
@@ -61,7 +61,7 @@ A curated list of awesome job seeking resources
 * [r/ResumeOptimization](https://www.reddit.com/r/ResumeOptimization/)
 * [r/WorkOnline](https://www.reddit.com/r/WorkOnline/)
 
-## Prepare
+## 📝 Prepare
 
 ### Resume & CV Tools
 
@@ -111,14 +111,14 @@ Use with care & for inspiration
 * [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity#readme)
 * [the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 
-## Apply
+## 📨 Apply
 
 * [Hunter.io](https://hunter.io/) - Find email addresses of recruiters and hiring managers.
 * [Jobloo](https://jobloo.co/) - AI-powered job search and application platform with 1.3M+ jobs. Finds relevant opportunities, tailors resumes and cover letters, and helps candidates apply faster.
 * [JobNavigator](https://github.com/vesaias/JobNavigator) - Self-hosted interactive job search automation: scrapes career pages and job boards, scores listings against your CV using AI, tailors resumes per job, and tracks applications with Gmail and Telegram integration.
 * [simplify.jobs](https://simplify.jobs/)
 
-## Interview
+## 🎤 Interview
 
 ### Interview Preparation
 
@@ -131,7 +131,7 @@ Use with care & for inspiration
 * [Pramp](https://www.pramp.com/) - Free peer-to-peer mock interviews.
 * [Tech Interview Handbook](https://www.techinterviewhandbook.org/) - Resumes, behavioral questions, and coding prep guides.
 
-## Offer
+## 🤝 Offer
 
 ### Compensation & Negotiation
 
@@ -140,7 +140,7 @@ Use with care & for inspiration
 * [Salary.com](https://www.salary.com/) - Detailed salary comparison and compensation data.
 * [WageLark](https://wagelark.com/) - Free salary guides sourced from U.S. BLS government wage data, with a percentile tool to see where a given pay figure falls within an occupation's real range. No signup required.
 
-## Would like to Contribute?
+## 🙌 Would like to Contribute?
 
 If you have something useful, we'd love your contribution
 
