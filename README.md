@@ -18,6 +18,7 @@ A curated list of awesome job seeking resources
 ## Resume Tools
 
 * [jobscan](https://www.jobscan.co/)
+* [ResumeAI](https://withresumeai.com/) - Free ATS resume checker (3/day anonymous, 10/day free account) + open State of ATS 2026 (738 employers; Workday 37.9%)
 * [resumeworded](https://resumeworded.com/results-v2)
 * [JobSprout](https://jobsprout.ai) - AI CV and cover letter builder with Typst templates and ATS-friendly export.
 * [GoodSpace](https://goodspace.ai/premium/ats) - Free AI-powered ATS resume scanner with multilingual support. Get an instant score, missing keywords, and formatting fixes. First scan is free, no signup required.
